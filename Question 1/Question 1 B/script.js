@@ -1,5 +1,10 @@
-// import { fsShader, vsShader } from "./fragSource.js";
-// console.log(fsShader, "Helo", vsShader);
+/**
+ *    Name: Samukelo Gift
+ *    Surname: Msimanga
+ *    S.Number: 223146145
+ *    Date: 3 June 2024
+ * 
+ */
 let vertices = new Float32Array([
   -0.5,
   -0.5, // Third Quadrant
