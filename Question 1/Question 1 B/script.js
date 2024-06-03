@@ -1,5 +1,5 @@
-import { fsShader, vsShader } from "./fragSource.js";
-console.log(fsShader, "Helo", vsShader);
+// import { fsShader, vsShader } from "./fragSource.js";
+// console.log(fsShader, "Helo", vsShader);
 let vertices = new Float32Array([
   -0.5,
   -0.5, // Third Quadrant
