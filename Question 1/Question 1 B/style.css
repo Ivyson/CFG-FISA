@@ -1,0 +1,12 @@
+canvas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
